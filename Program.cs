@@ -9,7 +9,8 @@ namespace snakeLadder
             Console.WriteLine("Welcome to snack and ladder Game\n");
             //StartZero.Zero();
             //Randomdie.Startrandom();
-            OptionPlay.start();
+            //OptionPlay.start();
+            RepeatTillWin.start();
 
         }
     }
