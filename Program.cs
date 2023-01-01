@@ -6,11 +6,13 @@ namespace snakeLadder
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to snack and ladder Game\n");
+            // Console.WriteLine("Welcome to snack and ladder Game\n");
             //StartZero.Zero();
             //Randomdie.Startrandom();
             //OptionPlay.start();
-            RepeatTillWin.start();
+            // RepeatTillWin.start();
+            //RepeatExactWin.start();
+            DiceNumberToWin.start();
 
         }
     }
